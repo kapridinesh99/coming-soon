@@ -1,0 +1,26 @@
+{
+  "short_name": "Real Value",
+  "name": "Direct Selling Company: Real Value Enterprises | MLM ...",
+  "description": "You can buy the product only from the Company's Authorised Center. You can not buy any ...",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
